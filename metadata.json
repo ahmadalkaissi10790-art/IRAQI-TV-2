@@ -1,0 +1,6 @@
+{
+  "name": "IRAQI TV",
+  "description": "Native Android TV streaming application for watching official Iraqi television channels with Arabic RTL support, Media3 ExoPlayer, and TV remote navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
